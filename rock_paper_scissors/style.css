@@ -1,0 +1,38 @@
+body {
+    background-color: bisque 
+}
+
+.icon {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 241.5px;
+    -ms-transform: translateY(-90%);
+    transform: translateY(-90%);
+  }
+
+.icon2 {
+    left: 583px;
+}
+
+.icon3 {
+    left: 924.5px;
+}
+
+.button {
+    left: 320.5px;
+    -ms-transform: translateY(+100%);
+    transform: translateY(+100%);
+}
+
+.button2 {
+    left: 658px;
+    -ms-transform: translateY(+100%);
+    transform: translateY(+100%);
+}
+
+.button3 {
+    left: 1000.5px;
+    -ms-transform: translateY(+100%);
+    transform: translateY(+100%);
+}
